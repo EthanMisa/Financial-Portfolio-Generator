@@ -2,10 +2,6 @@
 
 ### Developed by  Ethan Misa, Timothy Zheng and Mark Gasior.
 
-#### This code was written in Python, using Jupyter Notebook as the main IDE. We utilized various Python libraries including YFinance, Pandas, NumPy, and Matplotlib.
+This code was written in Python with Jupyter Notebook as the main IDE. We also utilized various Python libraries including YFinance, Pandas, NumPy, and Matplotlib.
 
-Our code won the runner-up prize in our [CFM 101 end-of-term competition!](https://uwaterloo.ca/school-of-accounting-and-finance/news/congratulations-teams-won-cfm-101-team-competition). 
-
-
-* Check it out here:
-[https://uwaterloo.ca/school-of-accounting-and-finance/news/congratulations-teams-won-cfm-101-team-competition](https://uwaterloo.ca/school-of-accounting-and-finance/news/congratulations-teams-won-cfm-101-team-competition).
+Our code won the runner-up prize in our [CFM 101 end-of-term competition!](https://uwaterloo.ca/school-of-accounting-and-finance/news/congratulations-teams-won-cfm-101-team-competition) 
